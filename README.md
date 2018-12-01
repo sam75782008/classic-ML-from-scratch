@@ -5,3 +5,4 @@ Forward pass combine the input feature and the hidden laery by weights and bias.
 ReLU is general nonlinear part within modern neural network and softmax can generate multi-class probability for the prediction.
 
 # ML related projects: Support Vector Machine & Adaboost
+This notebook shows hoe SVM and Adaboost work to classify two digits. The two methods are developed from scratch. By given simple examples, two methods both give 90%+ training and testing accuracy.
