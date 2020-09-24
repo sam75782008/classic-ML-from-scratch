@@ -1,3 +1,7 @@
+# Linear Regression
+This script is developed from scratch to practice the linear regression.
+The data used in training and testing can be found in "Data" folder.
+
 # ML related projects: Two-Layers Neural Network
 This notebook shows the basic idea for two-layers neural network and how to develop it from scratch as well as use Tensorflow and Pytorch.
 The architecture of the neural network is connected by two forward pass, one rectified linear unit (ReLU) and one softmax function. 
