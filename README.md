@@ -19,3 +19,7 @@ The data used in training and testing are the iris dataset from Sklearn.
 # SVM (9/29/2020)
 This script is developed from scratch to practice the support vector machine.
 The data used in training and testing are the iris dataset from Sklearn.
+
+# KNN (9/30/2020)
+This script is developed from scratch to practice the k-nearest-neighbor method.
+The data used in training and testing are the iris dataset from Sklearn.
