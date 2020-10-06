@@ -28,6 +28,6 @@ The data used in training and testing are the iris dataset from Sklearn.
 This script is developed from scratch to practice the K-means clustering method.
 The data used can be found in "Data" folder.
 
-# KNN (10/5/2020)
+# Naive Bayes (10/5/2020)
 This script is developed from scratch to practice the naive bayes classifier.
 The data used in training and testing are the iris dataset from Sklearn.
