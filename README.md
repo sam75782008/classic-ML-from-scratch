@@ -31,3 +31,7 @@ The data used can be found in "Data" folder.
 # Naive Bayes (10/5/2020)
 This script is developed from scratch to practice the naive bayes classifier.
 The data used in training and testing are the iris dataset from Sklearn.
+
+# PCA (10/14/2020)
+This script is developed from scratch to practice the Principal Component Analysis.
+The data used in training and testing are the iris dataset from Sklearn.
