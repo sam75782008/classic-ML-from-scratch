@@ -35,3 +35,7 @@ The data used in training and testing are the iris dataset from Sklearn.
 # PCA (10/14/2020)
 This script is developed from scratch to practice the Principal Component Analysis.
 The data used in training and testing are the iris dataset from Sklearn.
+
+# LDA (10/21/2020)
+This script is developed from scratch to practice the Fisher Linear Discriminant  Analysis.
+The data used in training and testing are the iris dataset from Sklearn.
